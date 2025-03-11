@@ -1,2 +1,3 @@
-echo "Sample.txt"
-ech0 "Im Anu, I'm at Kosha"git 
+Sample.txt
+Im Anu, I'm at Kosha
+I'm from dvg
