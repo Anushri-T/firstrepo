@@ -1,1 +1,2 @@
 echo "Sample.txt"
+ech0 "Im Anu, I'm at Kosha"git 
